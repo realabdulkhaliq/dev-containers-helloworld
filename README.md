@@ -4,5 +4,5 @@ Start up with Dev Containers
 
 - Remote Explorer
   - Open Folder In Container
-    - Configuration Definition
-    - Dockerfile [x]
+    [] Configuration Definition
+    [x] Dockerfile
